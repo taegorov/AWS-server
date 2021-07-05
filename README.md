@@ -28,6 +28,6 @@ Processes go here
 
 ## Links
 
-[Link to GUI Deploy here]
+[Link to GUI Deploy here](Awsserver-env.eba-hc9kp5ri.us-east-2.elasticbeanstalk.com )
 
 [Link to CLI Deploy here]
