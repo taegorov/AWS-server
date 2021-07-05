@@ -24,10 +24,10 @@ Task 2:
 
 ## Processes
 
-Processes go here
+My process was pretty much just following along with what Jacob did in class. I also leveraged my classmates Cullen Sharp and Keian Anthony for help.
 
 ## Links
 
 [Link to GUI Deploy here](http://timserver-env.eba-vcf4ynfp.us-west-2.elasticbeanstalk.com/)
 
-[Link to CLI Deploy here]
+[Link to CLI Deploy here](http://tim-env.eba-apnmxfza.us-west-2.elasticbeanstalk.com/)
